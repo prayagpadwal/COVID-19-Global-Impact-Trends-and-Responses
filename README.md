@@ -1,4 +1,4 @@
-## 🌍 India vs World COVID-19 Analysis Using Python Machine Learning 📊
+## 🌍 COVID-19 Global Impact: Trends and Responses 📊
 
 1. **Global Spread and Statistics** 🌍:
    - By March 2020, COVID-19 had impacted over 200 countries with varying severity 📈.
